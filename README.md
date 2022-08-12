@@ -2,7 +2,7 @@
 Very simple settings
 
 ## Building
-put `settings_rs = "0.1.0"` in your cargo.toml
+put `settings_rs = { git = "https://github.com/harvey298/SettingsRS.git" }` in your cargo.toml
 
 ## Documentaion
 To get the documentation for this libary clone the repo and in the cloned repo run `cargo doc --open`
